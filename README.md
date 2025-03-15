@@ -4,7 +4,7 @@
 ---
 * **IDE:** Visual Studio
 * **Language:** C++
-* **Libraries:** OpenCV
+* **Libraries:** OpenCV - 4.5.5
 
 ---
 **Contents**
